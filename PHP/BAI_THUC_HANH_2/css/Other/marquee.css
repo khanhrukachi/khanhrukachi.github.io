@@ -1,14 +1,13 @@
 .marquee {
     height: 20px;
     width: 100%;
-    margin-top: 3px;
   
     overflow: hidden;
     position: relative;
     display: inline-block;
 
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 16x;
   
     background-color: rgba(255, 255, 255, 0.781);
 }
