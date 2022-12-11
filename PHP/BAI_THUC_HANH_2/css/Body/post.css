@@ -1,0 +1,41 @@
+.post {
+    width: 100%;
+}
+
+.label-headings {
+	background-color: rgba(89, 89, 89, 0.596);
+	padding: 15px 50px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+
+	color: #ffffff;
+}
+
+.label-gens {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.label-details {
+	padding-left: 50px;
+    padding-right: 50px;
+
+	background-color: #fff4f4b7;
+
+    text-align: justify;
+}
+
+.label-author {
+    text-align: right;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.day{
+    margin: 0;
+    padding: 0;
+}
+.post-day{
+    font-size: 15px;
+}

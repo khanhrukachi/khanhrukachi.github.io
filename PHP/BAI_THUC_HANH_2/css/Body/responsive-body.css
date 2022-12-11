@@ -1,0 +1,101 @@
+@media screen and (max-width: 992px) {
+    .post-img {
+        height: 246px;
+    }
+    .post-heading {
+        font-size: 22px;
+    }
+    .post-gen {
+        height: 63.5px;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .news-news {
+        font-size: 18px;
+    }
+    .news-text {
+        font-size: 11px;
+    }
+    .post-img {
+        height: 246px;
+    }
+    .post-heading {
+        font-size: 18px;
+    }
+    .post-gen {
+        height: 72.5px;
+        font-size: 13px;
+    }
+
+    .pagination a {
+        font-size: 5px;
+        padding: 0;
+        margin: 0 5px 0 5px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .news-news {
+        font-size: 14px;
+    }
+    .post-img {
+        height: 180px;
+    }
+    .post-heading {
+        font-size: 15px;
+    }
+    .post-gen {
+        height: 46.25px;
+        font-size: 10px;
+    }
+    .pagination a {
+        font-size: 5px;
+        padding: 0;
+        margin: 0 1;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .news-news {
+        font-size: 6px;
+    }
+    .news-text {
+        font-size: 5px;
+    }
+    .post-img {
+        height: 180px;
+    }
+    .post-heading {
+        font-size: 11px;
+    }
+    .post-gen {
+        height: 47px;
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 312px) {
+    .news-news {
+        font-size: 6px;
+    }
+    .news-text {
+        font-size: 5px;
+    }
+    .post-img {
+        height: 168px;
+    }
+    .post-heading {
+        font-size: 9px;
+    }
+    .post-gen {
+        height: 47px;
+        font-size: 7px;
+    }
+    .pagination a {
+        font-size: 6px;
+        padding: 0;
+        margin: 0;
+    }
+}

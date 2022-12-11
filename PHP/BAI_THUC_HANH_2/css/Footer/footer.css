@@ -1,0 +1,70 @@
+#footer {
+    padding-top: 30px;
+    border-top: 1px solid white;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.top-footer {
+    display: flex;
+    float: right;
+    width: 100%;
+
+    overflow: hidden;
+}
+
+.footer-logo {
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.footer-contact {
+    float: right;
+}
+
+.footer-links {
+    display: flex;
+    z-index: 1;
+
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.footer-show {
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.footer-a {
+    display: block;
+    width: auto;
+    padding: 0px 10px;
+    font-size: 25px;
+    justify-content: center;
+
+    color: rgb(255, 255, 255);
+}
+
+.footer-about {
+    text-align: justify;
+
+    color: rgb(255, 255, 255);;
+}
+
+#googleMap {
+    position: relative;
+}
+
+.copyright {
+    padding-top: 16px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.text-copyright {
+    text-align: center;
+}

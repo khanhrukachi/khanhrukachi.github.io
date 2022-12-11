@@ -1,0 +1,142 @@
+@media screen and (max-width: 768px) {
+    .search {
+        margin: 15px 0;
+        width: 200px;
+        height: 50px;
+   }
+    .container-search {
+        width: 200px;
+    }
+    .container-search input#search {
+        width: 200px;
+    }
+    .logo {
+        width: 150px;
+    }
+    .contact-link {
+        font-size: 20px;
+        padding: 10px 10px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .search {
+        margin: 15px 0;
+        width: 165px;
+        height: 50px;
+   }
+    .container-search {
+        width: 165px;
+    }
+    .container-search input#search {
+        width: 165px;
+    }
+    .logo {
+        width: 120px;
+    }
+    .contact-link {
+        font-size: 12px;
+        padding: 16px 10px;
+    }
+}
+
+@media screen and (max-width: 419px) {
+    .search {
+        margin: 15px 0;
+        width: 125px;
+        height: 50px;
+   }
+    .container-search {
+        width: 125px;
+    }
+    .container-search input#search {
+        width: 125px;
+    }
+    .logo {
+        width: 100px;
+    }
+    .contact-link {
+        font-size: 10px;
+        padding: 17.5px 5px;
+    }
+}
+
+@media screen and (max-width: 318px) {
+    .logo {
+        width: 80px;
+    }
+    .search {
+        margin: 15px 0;
+        width: 100px;
+        height: 50px;
+   }
+    .container-search {
+        width: 100px;
+    }
+    .container-search input#search {
+        width: 100px;
+    }
+    .contact-link {
+        font-size: 10px;
+        padding: 10.5px 5px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .nav-a {
+        width: 130px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .top-nav {
+        height: 55px;
+    }
+    .nav-a {
+        width: 80px;
+        font-size: 10px;
+        padding: 5px 5px 0px 5px;
+    }
+    .nav-a:hover {
+        border-bottom: 3px solid #cfcfcf;
+        padding-bottom: 0;
+    }
+    .nav-show {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .top-nav {
+        height: 35px;
+    }
+    .nav-a {
+        width: 50px;
+        font-size: 6px;
+        padding: 5px 5px 0px 5px;
+    }
+    .nav-a:hover {
+        border-bottom: 2px solid #cfcfcf;
+    }
+    .nav-show {
+        margin-top: 2px;
+    }
+}
+
+@media screen and (max-width: 318px) {
+    .top-nav {
+        height: 35px;
+    }
+    .nav-a {
+        width: 40px;
+        font-size: 5px;
+        padding: 5px 5px 0px 5px;
+    }
+    .nav-a:hover {
+        border-bottom: 2px solid #cfcfcf;
+        padding-bottom: 3px;
+    }
+    .nav-show {
+        margin-top: 1px;
+    }
+}
